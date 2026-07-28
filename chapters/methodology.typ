@@ -1,6 +1,8 @@
 = Forschungsdesign und Vorgehensweise
 
-[Text]
+Eine Methode beschreibt eine systematische Vorgehensweise, mit der innerhalb eines festgelegten Ziels Erkenntnisse gewonnen werden können. Dabei zeichnen sich Methoden durch verschiedene charakteristische Merkmale aus. Zunächst ist entscheidend, dass eine Methode auch für Personen nachvollziehbar ist, die bisher keine Kenntnisse über deren Anwendung besitzen. Darüber hinaus sollte die Durchführung unabhängig von der jeweiligen Person immer zu vergleichbaren Ergebnissen führen.
+
+Des Weiteren basieren Methoden auf einem klar strukturierten und durchdachten Prinzip, wodurch eine objektive Vorgehensweise ermöglicht wird. Folglich werden persönliche Annahmen oder subjektive Einschätzungen, die bereits im Vorfeld entstanden sind, nicht in die Bewertung einbezogen. Abschließend ist es wichtig, dass Methoden nach einheitlichen Grundsätzen aufgebaut sind, sodass sie vermittelbar, erlernbar und wiederholbar bleiben (vgl. @balzert2009lehrbuch[S. 53]).
 
 == Fallstudienanalyse nach Yin
 
