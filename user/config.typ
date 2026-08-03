@@ -29,13 +29,13 @@
   title:             "Wissensarbeit im Zeitalter generativer Künstlicher Intelligenz bei SAP",
   subtitle:          "Eine systematische Analyse der Auswirkungen von Large Language Models auf Arbeitsprozesse und Kompetenzprofile",
   author:            "Anton Nguyen",
-  mat-number:        "[Matrikelnummer]",
-  course:            "[Kurs]",
-  study-program:     "[Studiengang]",
+  mat-number:        "5282932",
+  course:            "WWIBE224",
+  study-program:     "Wirtschaftsinformatik-Business Engineering",
   company:           "SAP SE, 88677 Markdorf",
-  company-supervisor:"[Projektbetreuer]",
+  company-supervisor:"Dagmar Schulte",
   supervisor:        "Kerem Ünal",
-  submission-date:   "[Abgabedatum]",
+  submission-date:   "15.09.2026",
 
   // Seminar paper only
   lecture:           "[Vorlesung]",
