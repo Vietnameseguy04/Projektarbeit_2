@@ -282,7 +282,7 @@
         align: (left + top, left + top),
 
         [Gesprächsprotokoll],
-        [#strong[Interview Person B] \ 30.07.2026, 13:15-14:00 Uhr | Thema: KI Tools in der Wissensarbeit bei SAP | Interviewer: Anton Nguyen],
+        [#strong[Interview Person B] \ 30.07.2026, 13:15-13:45 Uhr | Thema: KI Tools in der Wissensarbeit bei SAP | Interviewer: Anton Nguyen],
 
         [Würdest du dich kurz vorstellen und etwas über deinen beruflichen Hintergrund erzählen?],
         {
