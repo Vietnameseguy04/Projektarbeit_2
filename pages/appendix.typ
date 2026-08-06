@@ -78,7 +78,7 @@
           [],
 
           [Erzählaufforderung],
-          [Wie häufig nutzt du interne KI Tools wie den MS Copilot Unternehmenschat, GenAI XL, MS Copilot in MS Anwendungen oder EKX in deinem Arbeitsalltag, regelmäßig, gelegentlich oder eher selten oder gar nicht?],
+          [Wie häufig nutzt du interne KI Tools wie den MS Copilot Unternehmenschat, GenAI XL, Claude oder EKX in deinem Arbeitsalltag, regelmäßig, gelegentlich oder eher selten oder gar nicht?],
           text(style: "italic")[Falls regelmäßig: Wofür genau setzt du sie ein, und gibt es Aufgaben, bei denen du sie besonders häufig nutzt? Falls selten oder gar nicht: Was sind die Gründe dafür?],
 
           [Erzählaufforderung],
