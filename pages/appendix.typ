@@ -415,7 +415,7 @@
     #heading(level: 2, numbering: none)[Interview-Auswertung: Person C]
 
     #set text(size: 8.5pt)
-    #set par(leading: 0.45em)
+    #set par(leading: 0.4em)
 
     #figure(
       kind: table,
@@ -424,24 +424,130 @@
       table(
         columns: (4.2cm, 1fr),
         stroke: 0.5pt,
-        inset: (x: 3pt, y: 2pt),
+        inset: (x: 3pt, y: 1.5pt),
         align: (left + top, left + top),
 
         [Gesprächsprotokoll],
-        [#strong[Interview Person C] \ xx.xx.xxxx, xx:xx-xx:xx Uhr | Thema: KI Tools in der Wissensarbeit bei SAP | Interviewer: Anton Nguyen],
+        [#strong[Interview Person C] \ 06.08.2026, 11:00-11:30 Uhr | Thema: KI Tools in der Wissensarbeit bei SAP | Interviewer: Anton Nguyen],
 
-        [Würdest du dich kurz vorstellen und etwas über deinen beruflichen Hintergrund erzählen?], [],
-        [Wie häufig nutzt du interne KI Tools in deinem Arbeitsalltag?], [],
-        [Was hält dich oder Kolleg:innen davon ab, diese Tools stärker zu nutzen?], [],
-        [Was hat sich konkret verändert, bzw. was müsste sich ändern?], [],
-        [Woran machst du fest, ob eine Aufgabe gut für KI geeignet ist?], [],
-        [KI Tools erfinden manchmal Dinge, die plausibel klingen, aber falsch sind. Wie gehst du damit um?], [],
-        [Worauf achtest du beim Thema Datenschutz und Vertraulichkeit?], [],
-        [Prüfst du mehr KI-generierte Inhalte? Welche Fähigkeiten sind wichtiger geworden?], [],
-        [Hast du das Gefühl, dich zu sehr auf die Tools zu verlassen?], [],
-        [Wo bringt KI am meisten Vorteile, und wo stößt sie an ihre Grenzen?], [],
-        [Was sollte SAP tun, damit Vorteile genutzt werden, ohne dass Risiken überhandnehmen?], [],
-        [Gibt es noch etwas zum Thema KI und Arbeiten bei SAP, das dir wichtig ist?], [],
+        [Würdest du dich kurz vorstellen und etwas über deinen beruflichen Hintergrund erzählen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Wirtschaftsinformatik studiert; 2003 Berufseinstieg bei kleiner Hardwarefirma in Hamburg],
+            [2006 SAP-Einstieg (Technologieberatung, Traineeprogramm); 2026 20-jähriges Jubiläum bei SAP],
+            [Ca. 7 Jahre Consulting, ca. 7 Jahre MaxAttention-Kundenbetreuung, Mitentwicklung des Readiness-Checks (ERP -> S/4HANA-Migration)],
+            [Seit ca. 6 Jahren bei PCG; aktuelles Projekt: „Reimagine Customer Communication" - Kundenkommunikation auf Kanal-, Technologie- und Geschäftsprozessebene neu denken],
+          )
+        },
+
+        [Wie häufig nutzt du interne KI Tools in deinem Arbeitsalltag?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Regelmäßig],
+            [Teams Premium: Meeting-Transcript-Summaries],
+            [Claude und EKX: größere Datenmengen aus Excels/Dokumenten zusammenfassen, Inhalte gezielt finden],
+            [Bsp.: 500-seitige Compliance- und Rechtsdokumente (z.B. sap.com) analysieren, ohne PII einzugeben - statt manuelles Durchlesen],
+          )
+        },
+
+        [Was hält dich oder Kolleg:innen davon ab, diese Tools stärker zu nutzen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Person C selbst hält nichts davon ab],
+            [PCG ist keine Entwicklungseinheit -> geringerer Anreiz für Code-Generierung; nicht alle Projekte arbeiten mit Massendaten],
+            [Bei Strategie-Projekten (Meetings, Dokumente, konzeptionelles Arbeiten) keine weiteren Anwendungsfälle als aktuell genutzt],
+            [Bei Kolleg:innen: Unterschied zwischen KI-Affinen (nutzen privat ChatGPT, Gemini, Claude Code, DeepSeek) und KI-Ablehnenden -> Letztere weniger intrinsisch motiviert],
+          )
+        },
+
+        [Was hat sich konkret verändert, bzw. was müsste sich ändern?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Persönlich schneller geworden; im aktuellen Strategie-Projekt ca. 10 % Speed-Steigerung (kein Massendaten-Projekt)],
+            [Vergleich mit Entwickler-Freund: 90 % Zeitersparnis bei Prototypen-Erstellung],
+            [Bei PCG-Projekten mit Massendaten (z.B. Ticketanalysen): höhere Ersparnis möglich, aber nicht bezifferbar],
+            [Im Team: Kolleg:innen beschäftigen sich mehr mit dem Thema, Lernaufwand kostet zunächst Zeit; noch in Anfangsphase (manche Tools erst seit wenigen Monaten freigegeben)],
+          )
+        },
+
+        [Woran machst du fest, ob eine Aufgabe gut für KI geeignet ist?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Primärfilter: Datenschutz- und Vertraulichkeitsprüfung vor inhaltlicher Eignung],
+            [Primäre Hürde: personenbezogene Daten und Confidentiality; aufpassen, was man eingibt],
+            [Need-to-Know-Prinzip: auch Kundendaten ohne PII sind vertraulich; KI kann Daten aggregieren, die nur einem engeren Kreis zugänglich sein sollten],
+            [Viele Kolleg:innen nicht ausreichend für diesen Sachverhalt sensibilisiert],
+          )
+        },
+
+        [KI Tools erfinden manchmal Dinge, die plausibel klingen, aber falsch sind. Wie gehst du damit um?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Bei Zusammenfassungen: Plausibilitätschecks durchführen; bei eigenem Meeting direkt erkennbar],
+            [Bei Datenauswertungen: Ergebnis hinterfragen lassen („Rechne bitte nochmal nach") -> fast in der Hälfte der Fälle leichte Abweichungen in zweiter Antwort],
+            [Umgang: Bei Trendaussagen mit leichten Abweichungen wird das Ergebnis trotzdem genutzt; bei genauen Zahlen ist manuelle Prüfung notwendig],
+          )
+        },
+
+        [Worauf achtest du beim Thema Datenschutz und Vertraulichkeit?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Need-to-Know-Prinzip beachten; kein PII und keine vertraulichen Daten eingeben],
+            [Klare Vorgaben fehlen oft: im offiziellen Playground lange keine deutlichen Hinweise (kein Popup, keine rote Schrift) - Regeln nur in Wiki-Artikeln/Dokumenten hinterlegt],
+            [Großer Nachholbedarf: Datenschutzhinweise müssen direkt am Prompt-Eingabefeld erscheinen, nicht nur auf Übersichtsseiten],
+          )
+        },
+
+        [Prüfst du mehr KI-generierte Inhalte? Welche Fähigkeiten sind wichtiger geworden?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Nein - erstellt Inhalte überwiegend selbst],
+          )
+        },
+
+        [Hast du das Gefühl, dich zu sehr auf die Tools zu verlassen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Bis jetzt noch nicht],
+          )
+        },
+
+        [Wo bringt KI am meisten Vorteile, und wo stößt sie an ihre Grenzen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Vorteile im aktuellen Projekt: Meeting Summaries, Dokument Summaries, PowerPoint-Gerüst als Ausgangsbasis (dann manuell nacharbeiten)],
+            [Für Entwickler massiver Vorteil (bis 90 % Zeitersparnis bei Prototypen); für Operations ebenfalls (Daten aus ERP/Ariba ohne vordefinierten Report abrufen, Stichwort Autonomous Enterprise)],
+            [Risiko: KI-Outputs nicht immer reproduzierbar -> erschwert Support für KI-generierte Ergebnisse; fraglich, ob SAP genug Zeit/Geld in diesen Aspekt investiert],
+          )
+        },
+
+        [Was sollte SAP tun, damit Vorteile genutzt werden, ohne dass Risiken überhandnehmen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Klares Bewusstsein schaffen, welche Datenquellen an Assistenten angebunden werden und was die jeweilige Zielgruppe sehen darf (Need-to-Know)],
+            [Mitarbeitende verinnerlichen lassen, ob genutzte Tools intern (hinter SAP-Firewall) oder extern (OpenAI, Google) betrieben werden],
+            [Offenheit für KI-Nutzung fördern, wenn Datenbewusstsein vorhanden -> hohes Potenzial; andernfalls persönliches Compliance-Risiko],
+          )
+        },
+
+        [Gibt es noch etwas zum Thema KI und Arbeiten bei SAP, das dir wichtig ist?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Nein, alle relevanten Aspekte wurden besprochen],
+          )
+        },
       )
     ) <interview-auswertung-c>
 
