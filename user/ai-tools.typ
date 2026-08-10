@@ -12,6 +12,7 @@
       [Vorschläge zu wissenschaftlicher Fachliteratur und relevanten Quellen im Themenfeld KI und Wissensarbeit (gesamt)],
       [Übersetzung von Textpassagen und Fachbegriffen vom Deutschen ins Englische (gesamt)],
       [Inhaltliche Rückfragen zu Konzepten und Begriffsdefinitionen zur eigenen Einschätzung (gesamt)],
+      [Zusammenfassung der Experteninterviews und Aufbereitung der Interviewinhalte für die Auswertung (Kapitel 5)],
     ),
   ),
   ("NotebookLM (Google)",
