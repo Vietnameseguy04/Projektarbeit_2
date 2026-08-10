@@ -568,20 +568,128 @@
         align: (left + top, left + top),
 
         [Gesprächsprotokoll],
-        [#strong[Interview Person D] \ xx.xx.xxxx, xx:xx-xx:xx Uhr | Thema: KI Tools in der Wissensarbeit bei SAP | Interviewer: Anton Nguyen],
+        [#strong[Interview Person D] \ 10.08.2026, 10:30-11:00 Uhr | Thema: KI Tools in der Wissensarbeit bei SAP | Interviewer: Anton Nguyen],
 
-        [Würdest du dich kurz vorstellen und etwas über deinen beruflichen Hintergrund erzählen?], [],
-        [Wie häufig nutzt du interne KI Tools in deinem Arbeitsalltag?], [],
-        [Was hält dich oder Kolleg:innen davon ab, diese Tools stärker zu nutzen?], [],
-        [Was hat sich konkret verändert, bzw. was müsste sich ändern?], [],
-        [Woran machst du fest, ob eine Aufgabe gut für KI geeignet ist?], [],
-        [KI Tools erfinden manchmal Dinge, die plausibel klingen, aber falsch sind. Wie gehst du damit um?], [],
-        [Worauf achtest du beim Thema Datenschutz und Vertraulichkeit?], [],
-        [Prüfst du mehr KI-generierte Inhalte? Welche Fähigkeiten sind wichtiger geworden?], [],
-        [Hast du das Gefühl, dich zu sehr auf die Tools zu verlassen?], [],
-        [Wo bringt KI am meisten Vorteile, und wo stößt sie an ihre Grenzen?], [],
-        [Was sollte SAP tun, damit Vorteile genutzt werden, ohne dass Risiken überhandnehmen?], [],
-        [Gibt es noch etwas zum Thema KI und Arbeiten bei SAP, das dir wichtig ist?], [],
+        [Würdest du dich kurz vorstellen und etwas über deinen beruflichen Hintergrund erzählen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Senior Developer bei S/4HANA Cloud for Product Compliance],
+            [DHBW-Student seit 2016, Studienabschluss 2019, danach direkt in die Abteilung übernommen],
+            [Aufgaben: Softwareentwicklung sowie Betreuung von Studierenden],
+            [Schwerpunkt im Alltag: Performance-KPIs für Apps (Geschwindigkeit, Ressourcenverbrauch)],
+          )
+        },
+
+        [Wie häufig nutzt du interne KI Tools in deinem Arbeitsalltag?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Täglich],
+            [Einstieg über internen Aufruf, Cloud Code zu installieren; seitdem kontinuierlich gewachsen],
+            [Hauptanwendungsfälle: Code-Generierung und Dokumentation (technische Doku sowie User-Anleitungen)],
+          )
+        },
+
+        [Was hält dich oder Kolleg:innen davon ab, diese Tools stärker zu nutzen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Anfangs: fehlendes Vertrauen, weil die Tools neu waren],
+            [Kolleg:innen sind Gewohnheitstiere; disruptive Technologien erzeugen zunächst Skepsis],
+            [Mittlerweile größtenteils überwunden; Team hat sich mit den Grenzen und Stärken der Tools vertraut gemacht],
+          )
+        },
+
+        [Was hat sich konkret verändert, bzw. was müsste sich ändern?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Team angehalten, bei jeder Problemstellung aktiv zu fragen: „Macht KI-Einsatz hier Sinn? Warum (nicht)?"],
+            [Code-Generierung mit KI ist Standard, aber immer mit anschließendem menschlichem Review],
+            [Dokumentation: Word-Dateien werden in Markdown-Files überführt, damit KI damit arbeiten kann],
+            [Neue Dokumente entstehen heute überwiegend KI-unterstützt],
+          )
+        },
+
+        [Woran machst du fest, ob eine Aufgabe gut für KI geeignet ist?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Gut geeignet: Code-Analyse (ABAP-Klassen, UI5-Controller, ganze App-Projekte) - KI liefert detaillierte Beschreibungen],
+            [Grenzen: viele voneinander abhängige Klassen und Objekte - KI verliert den Kontextüberblick],
+            [Sowohl JavaScript/UI5 als auch ABAP werden analysiert; Nutzung nimmt bei ABAP zu],
+          )
+        },
+
+        [KI Tools erfinden manchmal Dinge, die plausibel klingen, aber falsch sind. Wie gehst du damit um?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Man entwickelt ein Gefühl dafür, ob Aussagen stimmen; trotzdem immer kritisch hinterfragen],
+            [Konkretes Beispiel: Kollege fragte, ob das ABAP-Statement „Wait" intern einen Commit auslöst; KI verneinte dies klar - obwohl die offizielle Dokumentation das Gegenteil belegt],
+            [Risiko: unkritisch übernommener KI-Code wird in Monaten oder Jahren schwer wartbar und unkontrollierbar],
+          )
+        },
+
+        [Worauf achtest du beim Thema Datenschutz und Vertraulichkeit?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Keine personenbezogenen Daten an KI-Tools weitergeben - wird im Team konsequent beachtet],
+            ["Human in the Loop": bei jedem KI-unterstützten Entwicklungsschritt ist menschliche Prüfung Pflicht],
+            [Auch bei Reviews gilt: KI-Output immer durch menschliches Urteil absichern],
+          )
+        },
+
+        [Prüfst du mehr KI-generierte Inhalte? Welche Fähigkeiten sind wichtiger geworden?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Ja - neue Dokumente entstehen heute fast ausschließlich KI-unterstützt statt von Grund auf selbst erstellt],
+            [Neue Anforderung: Word-Dateien in Markdown konvertieren, damit KI damit arbeiten kann - anfangs Hürde, nach einmaliger Einarbeitung routiniert],
+            [Kritische Prüfung und Review von KI-Outputs ist zur zentralen Arbeitspraxis geworden],
+          )
+        },
+
+        [Hast du das Gefühl, dich zu sehr auf die Tools zu verlassen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Ja, das Risiko ist real - weiß nicht mehr, wann zuletzt eigenständig ABAP-Code entwickelt wurde],
+            [Der gedankliche Entwicklungsprozess wird von der KI übernommen und fehlt dadurch],
+            [Fähigkeit noch nicht vollständig verlernt, aber das Risiko ist vorhanden],
+          )
+        },
+
+        [Wo bringt KI am meisten Vorteile, und wo stößt sie an ihre Grenzen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Vorteile: Zeitersparnis bei Dokumentenanalyse (z.B. 80-seitige Dokumente schnell zusammenfassen und gezielt befragen)],
+            [Analytische Aufgaben wie Code-Review und Dokumentation beschleunigt],
+            [Grenzen: komplexe Abhängigkeiten zwischen vielen Objekten - KI verliert Kontext; Ergebnisse müssen immer validiert werden],
+          )
+        },
+
+        [Was sollte SAP tun, damit Vorteile genutzt werden, ohne dass Risiken überhandnehmen?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Token-Limits sind bereits ein präsentes Thema; Budgets für Entwicklung sollten ausreichend sein],
+            [Mitarbeitende sollten lernen, Prompts effizienter zu formulieren und jeden Prompt auf seinen Nutzen zu prüfen],
+            [Balance finden zwischen produktivem KI-Einsatz und Kostenbewusstsein - KI nicht aus Bequemlichkeit verwenden],
+          )
+        },
+
+        [Gibt es noch etwas zum Thema KI und Arbeiten bei SAP, das dir wichtig ist?],
+        {
+          set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
+          list(
+            [Menschliche Kontrolle in KI-getriebenen Prozessen ist essenziell - immer jemanden einplanen, der einschreiten kann],
+            [Egal ob Code, Reviews oder Dokumentation: KI sollte Assistent bleiben, nicht unkontrollierter Entscheider],
+          )
+        },
       )
     ) <interview-auswertung-d>
   ]
