@@ -1,10 +1,11 @@
 = Theoretische Grundlagen
 
-Der Einsatz generativer Künstlicher Intelligenz in der Arbeitswelt hat in den vergangenen Jahren erheblich an Dynamik gewonnen. Insbesondere Large Language Models erschließen zunehmend Aufgabenbereiche, die bislang überwiegend menschlicher Expertise vorbehalten waren, wie etwa komplexes Sprachverständnis, kreative Textgenerierung und analytische Problemlösung (vgl. @DellAcqua2026[S. 1]; @Eloundou2023GPTsAreGPTs[S. 1-3]). Damit stellt diese Technologie nicht nur einen weiteren Digitalisierungsschritt dar, sondern greift unmittelbar in die Kernprozesse wissensintensiver Arbeit ein.
+Generative Künstliche Intelligenz verbreitet sich zunehmend und verändert dabei grundlegend, wie Wissensarbeit organisiert und ausgeführt wird (vgl. @Woodruff2024[S. 1-2]; @Trenerry2021[S. 1-2]). Besonders Large Language Models markieren in diesem Zusammenhang einen bedeutenden Entwicklungsschritt, da sie zunehmend Aufgabenbereiche erschließen, die bislang überwiegend menschlicher Expertise vorbehalten waren, wie etwa komplexes Sprachverständnis, kreative Textgenerierung und analytische Problemlösung (vgl. @DellAcqua2026[S. 1]; @Eloundou2023GPTsAreGPTs[S. 1-3]).
 
 
 
 Um die Auswirkungen dieser Entwicklung auf die Wissensarbeit bei SAP im weiteren Verlauf der Arbeit systematisch analysieren zu können, werden in diesem Kapitel zunächst die theoretischen Grundlagen erarbeitet, auf denen die nachfolgende Untersuchung aufbaut. Abschnitt 2.1 definiert zunächst den Begriff der Wissensarbeit und beschreibt den durch LLMs ausgelösten Wandel. Abschnitt 2.2 erläutert anschließend die technische Funktionsweise von Large Language Models sowie deren Einsatzmöglichkeiten in der Wissensarbeit, wobei die Betrachtung bewusst auf die Textgenerierung beschränkt bleibt, da diese im unternehmerischen Kontext die dominierende Anwendungsform darstellt.
+
 
 Zur begrifflichen Klarheit sei vorab darauf hingewiesen, dass generative KI der übergeordnete Technologiebereich ist, der neben Textgenerierung auch Anwendungen wie Bild-, Audio- und Videogenerierung umfasst. Large Language Models sind die konkrete Technologieklasse innerhalb dieses Bereichs, die auf Sprachverarbeitung spezialisiert ist und Textgenerierung ermöglicht. KI-Textgenerierung beschreibt entsprechend die Anwendung dieser Modelle. In der vorliegenden Arbeit werden diese Begriffe daher nicht synonym verwendet, sondern beziehen sich jeweils auf diese spezifischen Bedeutungsebenen.
 
