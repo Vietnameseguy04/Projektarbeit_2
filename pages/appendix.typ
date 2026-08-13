@@ -148,7 +148,7 @@
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
             [4-5 Jahre bei PCG; Hintergrund in Recruiting (Daimler/Mercedes-Benz, Amazon, Deutsche Bahn) und PM bei SAP (HANA Data & Analytics)],
-            [Aktuell PM im CISE-Projekt - Transformation von zwei Support-Einheiten],
+            [Aktuell PM in einem internen Transformationsprojekt - Neugestaltung von zwei Support-Einheiten],
             [Bringt PCG-Konzepte zu Rollen-Snapshots, Zusammenführungen und Retrospektiven ein],
           )
         },
