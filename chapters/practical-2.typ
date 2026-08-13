@@ -62,6 +62,8 @@ Das Risiko einer wachsenden Qualifikationslücke, das die Literatur vor allem im
 
 Insgesamt zeigt der Abgleich, dass die in der Literatur beschriebenen Veränderungen in Arbeitsprozessen, Kompetenzanforderungen sowie Chancen und Risiken durch die Interviewergebnisse in weiten Teilen bestätigt werden. Gleichzeitig ergänzen die Praxisperspektiven die theoretischen Befunde an mehreren Stellen, insbesondere hinsichtlich der strukturellen Datenschutzlücken in Tool-Oberflächen, der rollenabhängigen Ausprägung des Verlernrisikos sowie der bisher wenig diskutierten Frage der KI-Budgetverteilung als organisationale Gerechtigkeitsfrage.
 
+Aus dem Abgleich lassen sich dabei drei eigenständige Erkenntnisse ableiten, die so in der gesichteten Literatur nicht explizit formuliert werden. Erstens ist das Verlernrisiko durch KI-Nutzung nicht pauschal vorhanden oder abwesend, sondern abhängig davon, ob KI strukturierte kognitive Kernprozesse einer Rolle ersetzt oder lediglich ergänzt. Zweitens besteht eine strukturelle Datenschutzlücke nicht nur auf der Kompetenzebene der Mitarbeitenden, sondern auf der Gestaltungsebene der Tool-Oberflächen selbst, da Datenschutzhinweise dort häufig nicht sichtbar verankert sind. Drittens eröffnet die ungleiche Verteilung von KI-Nutzungsbudgets zwischen Rollen eine neue Dimension organisationaler Chancenungleichheit, die in der bisherigen Forschung zu KI und Wissensarbeit kaum thematisiert wird. Diese drei Erkenntnisse stellen den empirischen Eigenbeitrag der vorliegenden Arbeit dar und können als Ausgangspunkt für weiterführende Untersuchungen dienen.
+
 == Limitationen der Untersuchung
 
 Die vorliegende Arbeit weist eine Reihe von Einschränkungen auf, die bei der Interpretation der Ergebnisse berücksichtigt werden müssen.
