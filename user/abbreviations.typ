@@ -21,8 +21,6 @@
   ("PM",      "Projektmanagement"),
   ("PwC",     "PricewaterhouseCoopers"),
   ("SAP",     "Systeme, Anwendungen und Produkte in der Datenverarbeitung"),
-  ("UI",      "User Interface"),
   ("UI5",     "User Interface 5"),
-  ("US",      "United States"),
   ("USA",     "United States of America"),
 )
