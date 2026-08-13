@@ -437,7 +437,7 @@
             [Wirtschaftsinformatik studiert; 2003 Berufseinstieg bei kleiner Hardwarefirma in Hamburg],
             [2006 SAP-Einstieg (Technologieberatung, Traineeprogramm); 2026 20-jähriges Jubiläum bei SAP],
             [Ca. 7 Jahre Consulting, ca. 7 Jahre MaxAttention-Kundenbetreuung, Mitentwicklung des Readiness-Checks (ERP -> S/4HANA-Migration)],
-            [Seit ca. 6 Jahren bei PCG; aktuelles Projekt: „Reimagine Customer Communication" - Kundenkommunikation auf Kanal-, Technologie- und Geschäftsprozessebene neu denken],
+            [Seit ca. 6 Jahren bei PCG; aktuelles Projekt: internes Transformationsprojekt zur Neugestaltung von Kundenkommunikation auf Kanal-, Technologie- und Geschäftsprozessebene],
           )
         },
 
@@ -574,7 +574,7 @@
         {
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
-            [Senior Developer bei S/4HANA Cloud for Product Compliance],
+            [Senior Developer in einer SAP-Entwicklungsabteilung],
             [DHBW-Student seit 2016, Studienabschluss 2019, danach direkt in die Abteilung übernommen],
             [Aufgaben: Softwareentwicklung sowie Betreuung von Studierenden],
             [Schwerpunkt im Alltag: Performance-KPIs für Apps (Geschwindigkeit, Ressourcenverbrauch)],
@@ -586,7 +586,7 @@
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
             [Täglich],
-            [Einstieg über internen Aufruf, Claude Code zu installieren; seitdem kontinuierlich gewachsen],
+            [Einstieg über internen Aufruf, ein KI-Coding-Tool zu installieren; seitdem kontinuierlich gewachsen],
             [Hauptanwendungsfälle: Code-Generierung und Dokumentation (technische Doku sowie User-Anleitungen)],
           )
         },
