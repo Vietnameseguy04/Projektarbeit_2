@@ -586,7 +586,7 @@
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
             [Täglich],
-            [Einstieg über internen Aufruf, Cloud Code zu installieren; seitdem kontinuierlich gewachsen],
+            [Einstieg über internen Aufruf, Claude Code zu installieren; seitdem kontinuierlich gewachsen],
             [Hauptanwendungsfälle: Code-Generierung und Dokumentation (technische Doku sowie User-Anleitungen)],
           )
         },
