@@ -147,9 +147,9 @@
         {
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
-            [4-5 Jahre bei PCG; Hintergrund in Recruiting (Daimler/Mercedes-Benz, Amazon, Deutsche Bahn) und PM bei SAP (HANA Data & Analytics)],
+            [4-5 Jahre in einer internen Beratungseinheit von SAP; Hintergrund in Recruiting und Projektmanagement bei SAP],
             [Aktuell PM in einem internen Transformationsprojekt - Neugestaltung von zwei Support-Einheiten],
-            [Bringt PCG-Konzepte zu Rollen-Snapshots, Zusammenführungen und Retrospektiven ein],
+            [Bringt beratungsspezifische Konzepte zu Rollen-Snapshots, Zusammenführungen und Retrospektiven ein],
           )
         },
 
@@ -250,7 +250,7 @@
           list(
             [Zentrale Übersichtsseite: welches Tool wofür, was darf eingegeben werden],
             [Automatischer PII-Guard; regelmäßige interne Kommunikation über neue Möglichkeiten],
-            [PCG-spezifisch: KI-Best-Practice-Katalog team- und bereichsübergreifend teilen],
+            [Beratungseinheit-spezifisch: KI-Best-Practice-Katalog team- und bereichsübergreifend teilen],
           )
         },
 
@@ -258,7 +258,7 @@
         {
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
-            [KI-Nutzung stark isoliert je Team - Wunsch: PCG-weiter Überblick, welche Teams welche Tools wie einsetzen],
+            [KI-Nutzung stark isoliert je Team - Wunsch: bereichsweiter Überblick, welche Teams welche Tools wie einsetzen],
             [Kontrast: Bei SAP KI fast erwartet; in anderen Unternehmen wurden ChatGPT-Übersetzungen als Abmahnungsgrund behandelt],
           )
         },
@@ -288,8 +288,8 @@
         {
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
-            [Projekte im Bereich Support und Support Operations bei PCG; ca. 15 Jahre in der Gruppe],
-            [Hintergrund: externer Consultant in 4 Firmen (Bankbereich, technische Seite), dann SAP Systems Integration, Global Process Office, CEO Area Internal Consulting],
+            [Projekte im Bereich Support und Support Operations in einer internen Beratungseinheit von SAP; ca. 15 Jahre in der Gruppe],
+            [Hintergrund: externer Consultant in verschiedenen Firmen (Bankbereich, technische Seite), dann SAP Systems Integration, Global Process Office, interne Beratung],
             [Aktuell: Entitlement Checks für Partnerprodukte, Customer Support Profiles (Nachbarprojekt zu Support Rewired) sowie interne Projekte zu KI-Tools],
           )
         },
@@ -437,7 +437,7 @@
             [Wirtschaftsinformatik studiert; 2003 Berufseinstieg bei kleiner Hardwarefirma in Hamburg],
             [2006 SAP-Einstieg (Technologieberatung, Traineeprogramm); 2026 20-jähriges Jubiläum bei SAP],
             [Ca. 7 Jahre Consulting, ca. 7 Jahre MaxAttention-Kundenbetreuung, Mitentwicklung des Readiness-Checks (ERP -> S/4HANA-Migration)],
-            [Seit ca. 6 Jahren bei PCG; aktuelles Projekt: internes Transformationsprojekt zur Neugestaltung von Kundenkommunikation auf Kanal-, Technologie- und Geschäftsprozessebene],
+            [Seit ca. 6 Jahren in einer internen Beratungseinheit von SAP; aktuelles Projekt: internes Transformationsprojekt zur Neugestaltung von Kundenkommunikation auf Kanal-, Technologie- und Geschäftsprozessebene],
           )
         },
 
@@ -457,7 +457,7 @@
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
             [Person C selbst hält nichts davon ab],
-            [PCG ist keine Entwicklungseinheit -> geringerer Anreiz für Code-Generierung; nicht alle Projekte arbeiten mit Massendaten],
+            [Die interne Beratungseinheit ist keine Entwicklungseinheit -> geringerer Anreiz für Code-Generierung; nicht alle Projekte arbeiten mit Massendaten],
             [Bei Strategie-Projekten (Meetings, Dokumente, konzeptionelles Arbeiten) keine weiteren Anwendungsfälle als aktuell genutzt],
             [Bei Kolleg:innen: Unterschied zwischen KI-Affinen (nutzen privat ChatGPT, Gemini, Claude Code, DeepSeek) und KI-Ablehnenden -> Letztere weniger intrinsisch motiviert],
           )
@@ -469,7 +469,7 @@
           list(
             [Persönlich schneller geworden; im aktuellen Strategie-Projekt ca. 10 % Speed-Steigerung (kein Massendaten-Projekt)],
             [Vergleich mit Entwickler-Freund: 90 % Zeitersparnis bei Prototypen-Erstellung],
-            [Bei PCG-Projekten mit Massendaten (z.B. Ticketanalysen): höhere Ersparnis möglich, aber nicht bezifferbar],
+            [Bei Projekten der Einheit mit Massendaten (z.B. Ticketanalysen): höhere Ersparnis möglich, aber nicht bezifferbar],
             [Im Team: Kolleg:innen beschäftigen sich mehr mit dem Thema, Lernaufwand kostet zunächst Zeit; noch in Anfangsphase (manche Tools erst seit wenigen Monaten freigegeben)],
           )
         },
@@ -575,7 +575,7 @@
           set list(indent: 0pt, body-indent: 0.4em, spacing: 0.25em)
           list(
             [Senior Developer in einer SAP-Entwicklungsabteilung],
-            [DHBW-Student seit 2016, Studienabschluss 2019, danach direkt in die Abteilung übernommen],
+            [Duales Studium abgeschlossen 2019, danach direkt in die Abteilung übernommen],
             [Aufgaben: Softwareentwicklung sowie Betreuung von Studierenden],
             [Schwerpunkt im Alltag: Performance-KPIs für Apps (Geschwindigkeit, Ressourcenverbrauch)],
           )
