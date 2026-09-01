@@ -1,4 +1,4 @@
-= Auswirkungen von KI-Textgenerierung auf die Wissensarbeit (Ergebnisse der Literaturanalyse)
+= Auswirkungen von KI-Textgenerierung auf die Wissensarbeit
 
 Das folgende Kapitel stellt die Ergebnisse der durchgeführten Literaturanalyse dar und untersucht, wie KI-Textgenerierung die Wissensarbeit verändert. Dabei gliedert sich die Analyse in die drei Themenbereiche, die im Rahmen der Literaturanalyse in Kapitel 3 identifiziert wurden. Abschnitt 4.1 beleuchtet zunächst, inwiefern sich bestehende Arbeitsprozesse durch den Einsatz von KI verschieben. Darauf aufbauend analysiert Abschnitt 4.2, welche veränderten Anforderungen sich daraus für die Kompetenzprofile von Wissensarbeitenden ergeben. Abschließend zeigt Abschnitt 4.3, welche Chancen und Risiken sich aus diesen Veränderungen ergeben. Die drei Abschnitte bauen dabei aufeinander auf und ermöglichen so einen umfassenden Blick auf die Auswirkungen von KI-Textgenerierung auf die Wissensarbeit.
 
