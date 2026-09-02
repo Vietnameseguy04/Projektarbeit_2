@@ -14,9 +14,9 @@ Zusammenfassend lässt sich festhalten, dass die Forschungsfrage, wie KI-Textgen
 
 == Ausblick
 
-Die vorliegende Arbeit öffnet mehrere Anknüpfungspunkte für weiterführende Forschung. Erstens beschränkt sich die Untersuchung auf einen einzelnen Unternehmensfall mit vier Interviewpersonen, von denen drei aus derselben internen Beratungseinheit stammen. Eine Mehrfallstudie, die verschiedene Unternehmen, Branchen oder Unternehmensgrößen einbezieht, könnte prüfen, ob die identifizierten Muster übertragbar sind oder ob SAP als Technologieunternehmen mit fortgeschrittener KI-Adoption einen Sonderfall darstellt.
+Die vorliegende Arbeit öffnet mehrere Anknüpfungspunkte für weiterführende Forschung. Erstens beschränkt sich die Untersuchung auf einen einzelnen Unternehmensfall mit vier Interviewpersonen, von denen drei aus derselben internen Beratungseinheit stammen. Eine Mehrfallstudie, die verschiedene Unternehmen, Branchen oder Unternehmensgrößen einbezieht, kann prüfen, ob die identifizierten Muster übertragbar sind oder ob SAP als Technologieunternehmen mit fortgeschrittener KI-Adoption einen Sonderfall darstellt.
 
-Zweitens wäre eine Studie aufschlussreich, die dieselben oder vergleichbare Wissensarbeitende über einen längeren Zeitraum begleitet. Die Frage, ob das beschriebene Verlernrisiko tatsächlich eintritt und in welchem Umfang sich Kompetenzprofile langfristig verschieben, lässt sich auf Basis einer einmaligen Erhebung nicht abschließend beantworten.
+Zweitens erscheint eine Längsschnittstudie aufschlussreich, die dieselben oder vergleichbare Wissensarbeitende über einen längeren Zeitraum begleitet. Die Frage, ob das beschriebene Verlernrisiko tatsächlich eintritt und in welchem Umfang sich Kompetenzprofile langfristig verschieben, lässt sich auf Basis einer einmaligen Erhebung nicht abschließend beantworten.
 
 Drittens wurde in der Arbeit bewusst auf die Perspektive von Berufsanfängerinnen und Berufsanfängern verzichtet, da die Untersuchungseinheit auf aktive LLM-Nutzende fokussiert war. Gerade für diese Gruppe ist jedoch die Frage besonders relevant, ob der Wegfall klassischer Lernpfade durch KI-gestützte Routineübernahme langfristig den Aufbau impliziten Erfahrungswissens beeinträchtigt. Hier besteht erheblicher Forschungsbedarf, der über die vorliegende Arbeit hinausgeht.
 
