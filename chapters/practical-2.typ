@@ -4,7 +4,7 @@ Das folgende Kapitel ergänzt die Literaturanalyse aus Kapitel 4 um eine empiris
 
 == Durchführung und Auswertung der Interviews
 
-Zur Beantwortung der Forschungsfrage wurden ergänzend zur Literaturanalyse leitfadengestützte Experteninterviews durchgeführt. Als Grundlage für die Gespräche diente ein Interviewleitfaden, der im Rahmen der Vorbereitung entwickelt wurde und im Anhang in Abbildung 1 eingesehen werden kann. Parallel dazu wurden geeignete Interviewpartner aus dem Unternehmensumfeld von SAP identifiziert, kontaktiert und die Gesprächstermine koordiniert.
+Zur Beantwortung der Forschungsfrage wurden ergänzend zur Literaturanalyse leitfadengestützte Experteninterviews durchgeführt. Als Grundlage für die Gespräche diente ein Interviewleitfaden, der im Rahmen der Vorbereitung entwickelt wurde und im Anhang in @interview-leitfaden eingesehen werden kann. Parallel dazu wurden geeignete Interviewpartner aus dem Unternehmensumfeld von SAP identifiziert, kontaktiert und die Gesprächstermine koordiniert.
 
 *Durchführung der Experteninterviews*
 
@@ -12,7 +12,7 @@ Im Vorfeld jedes Interviews wurden die Teilnehmenden über die Zielsetzung und d
 
 *Auswertung der Experteninterviews*
 
-Im Folgenden werden die Aussagen der vier Interviewpartner thematisch verglichen, um Gemeinsamkeiten und Unterschiede systematisch herauszuarbeiten.
+Im Folgenden werden die Aussagen der vier Interviewpartner thematisch verglichen, um Gemeinsamkeiten und Unterschiede systematisch herauszuarbeiten. Die vollständigen Gesprächsprotokolle sind im Anhang in @interview-auswertung-wolff bis @interview-auswertung-d einzusehen.
 
 Person A ist seit ca. vier bis fünf Jahren in einer internen Beratungseinheit von SAP tätig und arbeitet im Projektmanagement eines internen Transformationsprojekts. Person B ist seit ca. 15 Jahren in derselben Einheit in verschiedenen Rollen aktiv und beschäftigt sich aktuell unter anderem mit internen KI-Projekten. Person C ist ebenfalls in dieser Beratungseinheit tätig, seit ca. 20 Jahren bei SAP, und arbeitet in einem internen Transformationsprojekt, das Kundenkommunikation auf Kanal-, Technologie- und Geschäftsprozessebene neu gestaltet. Person D ist seit 2019 als Senior Developer in einer Softwareentwicklungsabteilung bei SAP tätig und hat einen Schwerpunkt auf Softwareentwicklung sowie der Betreuung von Studierenden. Damit repräsentieren Personen A, B und C eher beratungs- und projektnahe Wissensarbeit, während Person D die Perspektive technischer Entwicklungsarbeit einbringt.
 
