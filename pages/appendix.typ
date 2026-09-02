@@ -2,42 +2,13 @@
 /// - labels (dict): UI label dictionary
 /// -> none
 #let appendix(labels: (:)) = {
-  import "../user/ai-tools.typ": ai-tools
-
   [
     #heading(level: 1, numbering: none)[#labels.appendix]
-    #heading(level: 2, numbering: none)[#labels.appendix-ai-heading]
-    #figure(
-      kind: table,
-      supplement: labels.supplement-table,
-      caption: [#labels.appendix-ai-caption],
-      table(
-        columns: (3.8cm, 1fr),
-        stroke: 0.5pt,
-        inset: (x: 6pt, y: 5pt),
-        align: (left + top, left + top),
-        table.header(
-          strong[#labels.appendix-ai-col1],
-          strong[#labels.appendix-ai-col2],
-        ),
-        ..for (name, items) in ai-tools {
-          (
-            name,
-            {
-              set list(indent: 0pt, body-indent: 0.5em, spacing: 0.3em)
-              set par(leading: 0.55em)
-              list(..items)
-            },
-          )
-        }
-      ),
-    ) <ai-tools>
 
-   #pagebreak()
-    #heading(level: 2, numbering: none)[Interviewleitfaden: LLMs in der Wissensarbeit bei SAP]
+   #heading(level: 2, numbering: none)[Interviewleitfaden: LLMs in der Wissensarbeit bei SAP]
 
-    #set text(size: 10.5pt)
-    #set par(leading: 0.45em)
+    #set text(size: 8.5pt)
+    #set par(leading: 0.4em)
 
     #figure(
       kind: image,
@@ -49,7 +20,7 @@
         #table(
           columns: (1fr, 1fr),
           stroke: 0.5pt,
-          inset: (x: 3pt, y: 2pt),
+          inset: (x: 3pt, y: 1.5pt),
           align: (left + top, right + top),
           [Datum und Uhrzeit: xx.xx.xxxx um xx:xx Uhr], [Ort: Microsoft Teams Besprechung],
           [Befragter: xxx], [Interviewer: Anton Nguyen],
@@ -64,7 +35,7 @@
         #table(
           columns: (2.0cm, 1fr, 1fr),
           stroke: 0.5pt,
-          inset: (x: 3pt, y: 2pt),
+          inset: (x: 3pt, y: 1.5pt),
           align: (left + top, left + top, left + top),
 
           table.header(
@@ -128,7 +99,7 @@
     #heading(level: 2, numbering: none)[Interview-Auswertung: Person A]
 
     #set text(size: 8.5pt)
-    #set par(leading: 0.45em)
+    #set par(leading: 0.4em)
 
     #figure(
       kind: table,
@@ -137,7 +108,7 @@
       table(
         columns: (4.2cm, 1fr),
         stroke: 0.5pt,
-        inset: (x: 3pt, y: 2pt),
+        inset: (x: 3pt, y: 1.5pt),
         align: (left + top, left + top),
 
         [Gesprächsprotokoll],
@@ -269,7 +240,7 @@
     #heading(level: 2, numbering: none)[Interview-Auswertung: Person B]
 
     #set text(size: 8.5pt)
-    #set par(leading: 0.45em)
+    #set par(leading: 0.4em)
 
     #figure(
       kind: table,
@@ -278,7 +249,7 @@
       table(
         columns: (4.2cm, 1fr),
         stroke: 0.5pt,
-        inset: (x: 3pt, y: 2pt),
+        inset: (x: 3pt, y: 1.5pt),
         align: (left + top, left + top),
 
         [Gesprächsprotokoll],
@@ -555,7 +526,7 @@
     #heading(level: 2, numbering: none)[Interview-Auswertung: Person D]
 
     #set text(size: 8.5pt)
-    #set par(leading: 0.45em)
+    #set par(leading: 0.4em)
 
     #figure(
       kind: table,
@@ -564,7 +535,7 @@
       table(
         columns: (4.2cm, 1fr),
         stroke: 0.5pt,
-        inset: (x: 3pt, y: 2pt),
+        inset: (x: 3pt, y: 1.5pt),
         align: (left + top, left + top),
 
         [Gesprächsprotokoll],

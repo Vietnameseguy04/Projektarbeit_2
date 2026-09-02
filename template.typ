@@ -23,6 +23,7 @@
 #import "pages/bibliography.typ": bibliography-page
 #import "pages/declaration.typ": declaration
 #import "pages/ai-declaration.typ": ai-declaration
+#import "pages/ki-verzeichnis.typ": ki-verzeichnis
 
 // Page format and margins
 #set page(
@@ -175,17 +176,20 @@
 // Bibliography
 #bibliography-page(labels: labels)
 
-// Declaration of independence
+// AI declaration
+#ai-declaration(
+  labels: labels,
+  margin: margin,
+)
+
+// KI-Verzeichnis
+#ki-verzeichnis(labels: labels, margin: margin)
+
+// Declaration of independence (last page)
 #declaration(
   labels:   labels,
   margin:   margin,
   doc-type: config.doc-type,
   title:    config.title,
   subtitle: config.subtitle,
-)
-
-// AI declaration
-#ai-declaration(
-  labels: labels,
-  margin: margin,
 )

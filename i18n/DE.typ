@@ -66,7 +66,7 @@
     mit der gedruckten Ausfertigung übereinstimmt.],
 
   // ---- Appendix – AI tools table (data/ai-tools.typ) ---- //
-  appendix-ai-heading: "A1: Übersicht eingesetzter KI-Werkzeuge",
+  appendix-ai-heading: "Übersicht eingesetzter KI-Werkzeuge",
   appendix-ai-caption: "Übersicht über die Nutzung von KI-basierten Werkzeugen",
   appendix-ai-col1:    "Werkzeug",
   appendix-ai-col2:    "Beschreibung der Nutzung",

@@ -38,6 +38,4 @@
       [#labels.signature],
     )
   ]
-
-  pagebreak()
 }
