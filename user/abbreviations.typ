@@ -2,7 +2,6 @@
 // Each entry: ("SHORT", "Full description")
 #let abbreviations = (
   ("ABAP",    "Advanced Business Application Programming"),
-  ("AI",      "Artificial Intelligence"),
   ("BCG",     "Boston Consulting Group"),
   ("DHBW",    "Duale Hochschule Baden-Württemberg"),
   ("EKX",     "Enterprise Knowledge Experience"),
@@ -11,7 +10,6 @@
   ("KI",      "Künstliche Intelligenz"),
   ("LLM",     "Large Language Model"),
   ("LLMOps",  "Large Language Model Operations"),
-  ("ML",      "Machine Learning"),
   ("MS",      "Microsoft"),
   ("PII",     "Personally Identifiable Information"),
   ("PM",      "Projektmanagement"),
