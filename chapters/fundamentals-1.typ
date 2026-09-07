@@ -49,4 +49,4 @@ Im Gegensatz zur diskriminativen KI, die primär Daten klassifiziert, erzeugt ge
 
 Trotz dieser Potenziale bleibt die Herausforderung der *Halluzination* bestehen, da LLMs auf statistischen Wahrscheinlichkeiten für die Vorhersage des nächsten Tokens auf Basis des bisherigen Kontexts beruhen (vgl. @Brynjolfsson2025[S. 895]) und dadurch inhaltlich falsche Aussagen mit hoher sprachlicher Überzeugungskraft generieren können (vgl. @DellAcqua2026[S.405]; @Woodruff2024[S.7 und 23]). Eine kontinuierliche menschliche Validierung („Task Stewardship”) bleibt daher für die Qualitätssicherung in professionellen Kontexten unerlässlich (vgl. @Lee2025[S. 12–16]).
 
-Im weiteren Verlauf der Arbeit werden LLM-basierte Anwendungen wie Microsoft Copilot, Claude von Anthropic sowie das SAP-intern betriebene Tool EKX unter dem Oberbegriff KI-Tools zusammengefasst.
+Im weiteren Verlauf der Arbeit werden alle LLM-basierten Anwendungen unter dem Oberbegriff KI-Tools zusammengefasst. Dazu zählen unter anderem Microsoft Copilot, Claude von Anthropic sowie das SAP-intern betriebene Tool EKX.
