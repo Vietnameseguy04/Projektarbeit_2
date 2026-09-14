@@ -7,6 +7,6 @@
   bibliography(
     "../user/sources.bib",
     title: none,
-    style: "harvard-cite-them-right",
+    style: "../user/harvard-no-brackets.csl",
   )
 }

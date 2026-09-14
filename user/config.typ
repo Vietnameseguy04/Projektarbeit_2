@@ -26,8 +26,8 @@
 // ---- Document metadata ---- //
 #let config = (
   doc-type:          doc-type,
-  title:             "Wissensarbeit im Zeitalter generativer Künstlicher Intelligenz bei SAP",
-  subtitle:          "Eine systematische Analyse der Auswirkungen von Large Language Models auf Arbeitsprozesse und Kompetenzprofile",
+  title:             [Wissensarbeit im Zeitalter generativer \ Künstlicher Intelligenz bei SAP],
+  subtitle:          [Eine systematische Analyse der Auswirkungen von \ Large Language Models auf Arbeitsprozesse und Kompetenzprofile],
   author:            "Anton Nguyen",
   mat-number:        "5282932",
   course:            "WWIBE224",
