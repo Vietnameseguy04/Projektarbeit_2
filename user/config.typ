@@ -18,7 +18,7 @@
 )
 
 // ---- Show confidentiality notice ---- //
-#let show-confidentiality-notice = false
+#let show-confidentiality-notice = true
 
 // ---- Show company supervisor on title page ---- //
 #let show-company-supervisor = true
