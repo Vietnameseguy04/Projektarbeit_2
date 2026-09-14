@@ -35,7 +35,7 @@
   company:           "SAP SE, 88677 Markdorf",
   company-supervisor:"Dagmar Schulte",
   supervisor:        "Kerem Ünal",
-  submission-date:   "15.09.2026",
+  submission-date:   "26.09.2026",
 
   // Seminar paper only
   lecture:           "[Vorlesung]",
