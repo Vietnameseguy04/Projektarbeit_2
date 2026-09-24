@@ -13,7 +13,7 @@
   margin: (:),
 ) = {
   import "common.typ": signature-grid, centered-declaration-heading
-  set page(header: none, margin: margin)
+  set page(header: none, footer: none, margin: margin)
 
   let doc-name = labels.doc-names.at(doc-type)
 

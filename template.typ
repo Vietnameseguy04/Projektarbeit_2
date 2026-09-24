@@ -118,8 +118,8 @@
 #if show-confidentiality-notice {
   confidentiality-notice(labels: labels, margin: margin)
 }
-// Advance roman counter past title (I) and optional confidentiality notice (II)
-#counter(page).update(if show-confidentiality-notice { 3 } else { 2 })
+// TOC starts at I
+#counter(page).update(1)
 
 // Table of contents
 #table-of-contents(labels: labels)
